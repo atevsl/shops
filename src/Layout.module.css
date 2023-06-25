@@ -1,0 +1,27 @@
+.container {
+  margin: 20px;
+}
+.nav {
+  background-image: linear-gradient(90deg, #2e4600, #486b00);
+  padding: 20px 30px;
+  text-decoration: none;
+  color: #a2c523;
+  text-align: center;
+  display: inline-block;
+  border-radius: 20px;
+  margin: 5px;
+}
+.navActive {
+  color: #fff;
+  background-image: linear-gradient(90deg, #486b00, #a2c523);
+  padding: 20px 30px;
+  text-decoration: none;
+  text-align: center;
+  display: inline-block;
+  border-radius: 20px;
+  margin: 5px;
+}
+.nav:hover {
+  color: #fff;
+  background-image: linear-gradient(90deg, #486b00, #a2c523);
+}
