@@ -2,7 +2,7 @@
   "name": "shops",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://arevs.github.io/shops/",
+  "homepage": "https://arevsl.github.io/shops/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
